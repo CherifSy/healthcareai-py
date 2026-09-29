@@ -16,7 +16,7 @@ pyparsing>=2.1.4
 python-dateutil==2.5.3
 pytz==2016.7
 scipy==0.18.1
-scikit-learn==0.18
+scikit-learn==1.5.0
 six==1.10.0
 snowballstemmer==1.2.1
 Sphinx==1.4.8
